@@ -1,2 +1,2 @@
 # Customer-Behavior-Analysis-
-Data analytics showing customer behavior analysis using python ,SQL and power BI
+Performed customer behavior analysis using Python (data cleaning & processing), SQL (data analysis), and Power BI (data visualization) to identify purchasing trends, customer segments, and category-wise revenue insights.
